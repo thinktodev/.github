@@ -19,6 +19,7 @@ tát là thành lập 1 tổ chức phi lợi nhuận cho anh em dev.
 
 ### Những thành viên đầu tiên
 [@hoc171112001](https://github.com/phuthuycoding) [@kaneha](https://github.com/xuandung38) : Front end
+[locdangxuan](https://github.com/phanvanhoi) [locdangxuan](https://github.com/phanvanhoi)
 
 ### Nhà tài trợ và đồng hành cùng chúng tôi
 - Hiện tại tôi và Dũng đang bỏ tiền túi...
