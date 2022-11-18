@@ -11,3 +11,15 @@ tát là thành lập 1 tổ chức phi lợi nhuận cho anh em dev.
 - Tổ chức các workshop, hội thảo mang tính thực tế và chia sẻ và dĩ nhiên không có tuyển dụng ở đây.
 - Tổ chức techtalk hằng năm hàng quý.
 - Tổ chức event code fight etc..
+
+
+## Thành viên
+### Ý tưởng và người sáng lập
+@phuthuycoding @xuandung38
+
+### Những thành viên đầu tiên
+@hoc171112001 @kaneha : Front end
+
+### Nhà tài trợ và đồng hành cùng chúng tôi
+- Hiện tại tôi và Dũng đang bỏ tiền túi...
+- Updating....
