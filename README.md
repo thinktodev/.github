@@ -1,4 +1,4 @@
-# Project này dùng để submit những ý tưởng mới và giới thiệu về chúng tôi
+> Project này dùng để giới thiệu về chúng tôi và cho các bạn có thể submit những ý tưởng mới hoặc join team cùng chúng tôi.
 
 ## Chúng tôi là ai ?
 
@@ -23,3 +23,6 @@ tát là thành lập 1 tổ chức phi lợi nhuận cho anh em dev.
 ### Nhà tài trợ và đồng hành cùng chúng tôi
 - Hiện tại tôi và Dũng đang bỏ tiền túi...
 - Updating....
+
+### Cộng đồng
+Telegram : [https://t.me/+6XraSbq7b6s1Yjk9](https://t.me/+6XraSbq7b6s1Yjk9)
