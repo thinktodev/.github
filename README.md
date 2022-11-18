@@ -2,7 +2,7 @@
 
 ## Chúng tôi là ai ?
 
-- Chúng tôi là tổ chức phi lợi nhuận tại Việt Nam. Gọi là tổ chức cũng chưa hẳn mà chỉ là 1 nhóm nhỏ mang trong mình một hoài bảo to 
+> Chúng tôi là tổ chức phi lợi nhuận tại Việt Nam. Gọi là tổ chức cũng chưa hẳn mà chỉ là 1 nhóm nhỏ mang trong mình một hoài bảo to 
 tát là thành lập 1 tổ chức phi lợi nhuận cho anh em dev.
 
 ## Mục tiêu của chúng tôi
