@@ -15,10 +15,10 @@ tát là thành lập 1 tổ chức phi lợi nhuận cho anh em dev.
 
 ## Thành viên
 ### Ý tưởng và người sáng lập
-@phuthuycoding @xuandung38
+[@phuthuycoding](https://github.com/phuthuycoding) [@xuandung38](https://github.com/xuandung38)
 
 ### Những thành viên đầu tiên
-@hoc171112001 @kaneha : Front end
+[@hoc171112001](https://github.com/phuthuycoding) [@kaneha]((https://github.com/xuandung38)) : Front end
 
 ### Nhà tài trợ và đồng hành cùng chúng tôi
 - Hiện tại tôi và Dũng đang bỏ tiền túi...
