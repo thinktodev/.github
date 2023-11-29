@@ -18,9 +18,6 @@ tát là thành lập 1 tổ chức phi lợi nhuận cho anh em dev.
 [@phuthuycoding](https://github.com/phuthuycoding) [@xuandung38](https://github.com/xuandung38)
 
 ### Những thành viên đầu tiên
-[@dinhquochan](https://github.com/dinhquochan) [@huynt57](https://github.com/huynt57)
-[@hoc171112001](https://github.com/hoc171112001) [@kaneha](https://github.com/kaneha)
-[@locdangxuan](https://github.com/locdangxuan) [@phanvanhoi](https://github.com/phanvanhoi)
 
 ### Nhà tài trợ và đồng hành cùng chúng tôi
 - Hiện tại [@phuthuycoding](https://github.com/phuthuycoding) và  [@xuandung38](https://github.com/xuandung38) đang bỏ tiền túi...
